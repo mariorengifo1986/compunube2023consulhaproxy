@@ -1,0 +1,11 @@
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+
+<html><body><h1>503 Servicio no disponible</h1>
+los videos de youtube no son documentación.
+no están disponibles los servicios.
+no aprovisionamos el encoding no tuvimos tiempo.
+</body></html>
+
